@@ -79,7 +79,7 @@ Intelligent chatbot developed using modern AI technologies for automated assista
 
 💻 GitHub: github.com/shivamkumar726
 
-🧩 LeetCode: leetcode.com
+🧩 LeetCode: https://leetcode.com/u/Shivam-kr/
 
 📧 Email: [shivamkumar72657@gmail.com](mailto:shivamkumar72657@gmail.com)
 
