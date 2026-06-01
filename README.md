@@ -85,8 +85,4 @@ Intelligent chatbot developed using modern AI technologies for automated assista
 
 ---
 
-## 📊 GitHub Stats
 
-🔥 Consistently learning, building projects, and solving DSA problems.
-
-🚀 Open to Internship and Full-Time Opportunities in Software Development, AI, Cloud Computing, and Full Stack Development.
